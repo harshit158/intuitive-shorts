@@ -2,5 +2,7 @@
 This repository is a collection of important ML/NLP/CV concepts explained primarily through "visual" media
 
 <p align="center">
-  <img  src="https://www.icloud.com/iclouddrive/0x8-jJvfjzJRkCHEgLmao3K9Q#1">
+  <img  src="https://drive.google.com/file/d/0B50zmdCOXwriN3E1TlRpTVh1blU/view?usp=sharing">
 </p>
+
+![Image of Yaktocat](https://drive.google.com/file/d/0B50zmdCOXwriN3E1TlRpTVh1blU/view?usp=sharing)
