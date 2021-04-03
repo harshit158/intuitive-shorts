@@ -10,18 +10,35 @@
   </br>
 </p>
 
-This repository is a collection of **intuitive** explanations and **short** summaries (hence the name "Intuitive Shorts") of important and interesting ML/NLP/CV concepts explained primarily through Images
+This repository is a collection of **intuitive** explanations and **short** summaries (hence the name "Intuitive Shorts") of important and interesting ML/NLP/CV concepts
 
 ## Natural Language Processing (NLP)
 | Topic | Link |
 |:---| :---
-| ✔️ What is Softmax-Temperature ? | [Link](https://intuitiveshorts.blogspot.com/2020/04/softmax-temperature.html) |
-| ✔️ State-Less Vs State-Full LSTMS | [Link](https://intuitiveshorts.blogspot.com/2020/04/stateless-vs-statefull-sequence-models.html) |
+| ✔️ Softmax-Temperature | [Link](https://intuitiveshorts.blogspot.com/2020/04/softmax-temperature.html) |
+| ✔️ State-Less Vs State-Full LSTMs | [Link](https://intuitiveshorts.blogspot.com/2020/04/stateless-vs-statefull-sequence-models.html) |
+| ✔️ Naive Bayes | [Link](shorts/naive_bayes.md) |
 | ➖ Text Augmentation techniques | Coming Soon |
 | ➖ Adversarial Attacks in NLP | Coming Soon |
 | ➖ Statistical Language Modelling | Coming Soon |
-
+| ➖ Conditional Random Fields | Coming Soon |
+| ➖ Sampling techniques in decoders | Coming Soon |
 <br>
+
+## Machine Learning
+| Topic | Link |
+|:---| :---
+| ➖ Generative VS Discriminative modelling | Coming soon |
+| ➖ Parametrics Vs Non-parametric modelling | Coming soon |
+| ➖ Assumptions behind ML Algorithms | Coming soon |
+| ➖ KL Divergence | Coming soon |
+<br>
+
+## Paper Readings
+| Topic | Link |
+
+## ML-OPs
+| Topic | Link |
 
 ## Parameter Calculation
 | Topic | Link |
