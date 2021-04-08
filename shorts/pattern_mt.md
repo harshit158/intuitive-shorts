@@ -1,20 +1,19 @@
 # Design Pattern 1: Useful Overfitting
 
 Overfitting is useful when:  
-1. There is no noise -> Labels are accurate for all instances 
-2. Entire input space can be tabulated (you have all the possible examples)
-3. Knowledge Distillation from Larger ML model into smaller ML model
+1. Entire input space can be tabulated (you have all the possible examples) and there is no noise (Labels are accurate for all instances)
+2. Knowledge Distillation from Larger ML model into smaller ML model
 <br>  
   
 
 Points:  
 1. The best fitting model is a "large" model that has been properly "regularized"
-2. A complex enough model should be able to overfit on a small enough batch of data, provided everything is setup correctly.
+2. A complex enough model should be able to overfit on a small enough batch of data, provided everything is setup correctly. If not, something wrong with the setup.
 
 <br>
 
 # Design Pattern 2: Checkpoints
-**Checkpointing**: Saving full model state (entire internal state) so that model training can be resumed from a point  
+**Checkpointing**: Saving full model state (entire internal state) so that model training can be resumed from a point.
 Example of model's state:  
 1. Dropout
 2. Learning rate, if the model uses scheduler  
