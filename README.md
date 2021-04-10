@@ -31,9 +31,9 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ Generative VS Discriminative modelling | Coming soon |
 | ➖ Parametrics Vs Non-parametric modelling | Coming soon |
 | ➖ Assumptions behind ML Algorithms | Coming soon |
-| ➖ KL Divergence | Coming soon |
+| ➖ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
 | ➖ Anomaly Detection | [Link](shorts/anomaly.md) |
-| ➖ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](shorts/pattern_mt.md): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
+| ➖ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
 <br>
 
 ## Paper Readings
