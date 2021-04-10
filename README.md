@@ -32,7 +32,8 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ Parametrics Vs Non-parametric modelling | Coming soon |
 | ➖ Assumptions behind ML Algorithms | Coming soon |
 | ➖ KL Divergence | Coming soon |
-| ➖ ML Design Patterns | [Link](shorts/pattern_mt.md): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
+| ➖ Anomaly Detection | [Link](shorts/anomaly.md) |
+| ➖ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](shorts/pattern_mt.md): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
 <br>
 
 ## Paper Readings
