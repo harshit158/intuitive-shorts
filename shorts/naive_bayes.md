@@ -15,3 +15,4 @@
 
 **Questions:**  
 1. How to use Naive bayes in case of continuous values ?
+2. What is the relation between Language modelling and naive bayes ?
