@@ -23,6 +23,11 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ Statistical Language Modelling | Coming Soon |
 | ➖ Conditional Random Fields | Coming Soon |
 | ➖ Sampling techniques in decoders | Coming Soon |
+| ➖ Types of Attention | Coming Soon |
+| ➖ Approaches for getting Sentence-Embeddings | Coming Soon |
+| ➖ Different tokenizers | Coming Soon |
+| ➖ Transformer based Models | [Link](https://intuitiveshorts.blogspot.com/2021/04/transformer-based-models.html) |
+
 <br>
 
 ## Machine Learning
@@ -30,11 +35,15 @@ This repository is a collection of **intuitive** explanations and **short** summ
 |:---| :---
 | ➖ Generative VS Discriminative modelling | Coming soon |
 | ➖ Parametrics Vs Non-parametric modelling | Coming soon |
+| ➖ MLE Vs MAP | Coming soon |
 | ➖ Assumptions behind ML Algorithms | Coming soon |
-| ➖ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
-| ➖ Anomaly Detection | [Link](shorts/anomaly.md) |
-| ➖ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
+| ✔️ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
+| ✔️ Anomaly Detection | [Link](shorts/anomaly.md) |
+| ✔️ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
 <br>
+
+## Approaches
+| Topic | Link |
 
 ## Paper Readings
 | Topic | Link |
