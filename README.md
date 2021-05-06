@@ -18,7 +18,7 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ✔️ Softmax-Temperature | [Link](https://intuitiveshorts.blogspot.com/2020/04/softmax-temperature.html) |
 | ✔️ State-Less Vs State-Full LSTMs | [Link](https://intuitiveshorts.blogspot.com/2020/04/stateless-vs-statefull-sequence-models.html) |
 | ✔️ Naive Bayes | [Link](shorts/naive_bayes.md) |
-| ➖ Transformer based Models | [Link](https://intuitiveshorts.blogspot.com/2021/04/transformer-based-models.html) |
+| ✔️ Transformer based Models | [Link](https://intuitiveshorts.blogspot.com/2021/04/transformer-based-models.html) |
 | ➖ Text Augmentation techniques | Coming Soon |
 | ➖ Adversarial Attacks in NLP | Coming Soon |
 | ➖ Statistical Language Modelling | Coming Soon |
@@ -33,7 +33,7 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | Topic | Link |
 |:---| :---
 | ✔️ Sampling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
-| ✔️ Re-Sampling Methods: Cross Validation and Bootstrapping | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
+| ✔️ Re-Sampling Methods: Cross Validation and Bootstrapping | [Link](https://intuitiveshorts.blogspot.com/2021/05/re-sampling-methods-cross-validation.html) | ✔️ Ensembling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
 | ✔️ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
 | ✔️ Anomaly Detection | [Link](shorts/anomaly.md) |
 | ✔️ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
@@ -42,7 +42,10 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ MLE Vs MAP | Coming soon |
 | ➖ Assumptions behind ML Algorithms | Coming soon |
 | ➖ Dimensionality Reduction | Coming soon |
-| ➖ Cross Validation Techniques | Coming soon |
+| ➖ Hyperparameter Optimization | Coming soon |
+| ➖ Optimizers | Coming soon |
+| ➖ Types of Normalizations | Coming soon |
+
 <br>
 
 ## Approaches
