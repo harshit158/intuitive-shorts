@@ -12,6 +12,28 @@
 
 This repository is a collection of **intuitive** explanations and **short** summaries (hence the name "Intuitive Shorts") of important and interesting ML/NLP/CV concepts
 
+ 
+
+## Machine Learning
+| Topic | Link |
+|:---| :---
+| ✔️ Sampling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
+| ✔️ Re-Sampling Methods: Cross Validation and Bootstrapping | [Link](https://intuitiveshorts.blogspot.com/2021/05/re-sampling-methods-cross-validation.html) | ✔️ Ensembling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
+| ✔️ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
+| ✔️ Anomaly Detection | [Link](shorts/anomaly.md) |
+| ✔️ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
+| ➖ Time Series Analysis | Coming Soon |
+| ➖ Generative VS Discriminative modelling | Coming soon |
+| ➖ Parametrics Vs Non-parametric modelling | Coming soon |
+| ➖ MLE Vs MAP | Coming soon |
+| ➖ Assumptions behind ML Algorithms | Coming soon |
+| ➖ Dimensionality Reduction | Coming soon |
+| ➖ Clustering | Coming soon |
+| ➖ Hyperparameter Optimization | Coming soon |
+| ➖ Optimizers | Coming soon |
+| ➖ Types of Normalizations | Coming soon |
+<br>
+
 ## Natural Language Processing (NLP)
 | Topic | Link |
 |:---| :---
@@ -27,26 +49,8 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ Types of Attention | Coming Soon |
 | ➖ Approaches for getting Sentence-Embeddings | Coming Soon |
 | ➖ Different tokenizers | Coming Soon |
-<br> 
-
-## Machine Learning
-| Topic | Link |
-|:---| :---
-| ✔️ Sampling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
-| ✔️ Re-Sampling Methods: Cross Validation and Bootstrapping | [Link](https://intuitiveshorts.blogspot.com/2021/05/re-sampling-methods-cross-validation.html) | ✔️ Ensembling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
-| ✔️ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
-| ✔️ Anomaly Detection | [Link](shorts/anomaly.md) |
-| ✔️ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
-| ➖ Generative VS Discriminative modelling | Coming soon |
-| ➖ Parametrics Vs Non-parametric modelling | Coming soon |
-| ➖ MLE Vs MAP | Coming soon |
-| ➖ Assumptions behind ML Algorithms | Coming soon |
-| ➖ Dimensionality Reduction | Coming soon |
-| ➖ Hyperparameter Optimization | Coming soon |
-| ➖ Optimizers | Coming soon |
-| ➖ Types of Normalizations | Coming soon |
-
 <br>
+
 
 ## Approaches
 | Topic | Link |
