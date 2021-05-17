@@ -53,9 +53,15 @@ This repository is a collection of **intuitive** explanations and **short** summ
 | ➖ Different tokenizers | Coming Soon |
 <br>
 
-
-## Approaches
+## Miscellaneous questions
 | Topic | Link |
+|:---| :---
+| ✔️ When to apply Feature Scaling for Linear Regression | [Link](https://intuitiveshorts.substack.com/p/feature-scaling-in-linear-regression) |
+
+## Case Studies
+| Topic | Link |
+|:---| :---
+| ✔️ How LinkedIn used NLP to design Help Search System | [Link](https://intuitiveshorts.substack.com/p/case-study-how-linkedin-used-nlp) |
 
 ## Paper Readings
 | Topic | Link |
