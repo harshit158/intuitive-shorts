@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img  src=shorts/docs/logo.png>
+  <img  src=shorts/docs/logo_new2.gif width=600>
   </br>
 </p>
 
@@ -10,68 +10,42 @@
   </br>
 </p>
 
-This repository is a collection of **intuitive** explanations and **short** summaries (hence the name "Intuitive Shorts") of important and interesting ML/NLP/CV concepts
+This is the companion repository of my Substack Newsletter - **[Intuitive Shorts](https://intuitiveshorts.substack.com/)** where we strive to deliver **intuitive** explanations and **short** summaries (hence the name "Intuitive Shorts") of important and interesting ML/NLP/Python concepts.
 
- 
+## 🌟 Latest Posts
 
-## Machine Learning
-| Topic | Link |
-|:---| :---
-| ✔️ Sampling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
-| ✔️ Re-Sampling Methods: Cross Validation and Bootstrapping | [Link](https://intuitiveshorts.blogspot.com/2021/05/re-sampling-methods-cross-validation.html) |
-| ✔️ Ensembling Methods | [Link](https://intuitiveshorts.blogspot.com/2021/04/sampling-methods.html) |
-| ✔️ KL Divergence | [Link](https://intuitiveshorts.blogspot.com/2021/04/kl-divergence.html) |
-| ✔️ Anomaly Detection | [Link](shorts/anomaly.md) |
-| ✔️ ML Design Patterns <br> (Notes from the [book](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)) | [Link](https://intuitiveshorts.blogspot.com/2021/04/ml-design-patterns-model-training.html): 1. Model Training Patterns <br> [Link](shorts/pattern_rs.md): 2. Design Patterns for Resilient Serving <br> |
-| ➖ Time Series Analysis | Coming Soon |
-| ➖ Recommendation Engines | Coming Soon |
-| ➖ Generative VS Discriminative modelling | Coming soon |
-| ➖ Parametrics Vs Non-parametric modelling | Coming soon |
-| ➖ MLE Vs MAP | Coming soon |
-| ➖ Assumptions behind ML Algorithms | Coming soon |
-| ➖ Dimensionality Reduction | Coming soon |
-| ➖ Clustering | Coming soon |
-| ➖ Hyperparameter Optimization | Coming soon |
-| ➖ Optimizers | Coming soon |
-| ➖ Types of Normalizations | Coming soon |
-<br>
+<!-- Add your latest posts here -->
+1. **[Short #1 | Feature Scaling in Linear Regression](https://intuitiveshorts.substack.com/p/feature-scaling-in-linear-regression)**
 
-## Natural Language Processing (NLP)
-| Topic | Link |
-|:---| :---
-| ✔️ Softmax-Temperature | [Link](https://intuitiveshorts.blogspot.com/2020/04/softmax-temperature.html) |
-| ✔️ State-Less Vs State-Full LSTMs | [Link](https://intuitiveshorts.blogspot.com/2020/04/stateless-vs-statefull-sequence-models.html) |
-| ✔️ Naive Bayes | [Link](shorts/naive_bayes.md) |
-| ✔️ Transformer based Models | [Link](https://intuitiveshorts.blogspot.com/2021/04/transformer-based-models.html) |
-| ➖ Text Augmentation techniques | Coming Soon |
-| ➖ Adversarial Attacks in NLP | Coming Soon |
-| ➖ Statistical Language Modelling | Coming Soon |
-| ➖ Conditional Random Fields | Coming Soon |
-| ➖ Sampling techniques in decoders | Coming Soon |
-| ➖ Types of Attention | Coming Soon |
-| ➖ Approaches for getting Sentence-Embeddings | Coming Soon |
-| ➖ Different tokenizers | Coming Soon |
-<br>
+2. **[Short #2 | Case Study | How LinkedIn used NLP to design Help Search System](https://intuitiveshorts.substack.com/p/case-study-how-linkedin-used-nlp)**
 
-## Miscellaneous questions
-| Topic | Link |
-|:---| :---
-| ✔️ When to apply Feature Scaling for Linear Regression | [Link](https://intuitiveshorts.substack.com/p/feature-scaling-in-linear-regression) |
+3. **[Short #3 | Flattening 2D lists VS 2D Tensors](https://intuitiveshorts.substack.com/p/how-to-flatten-2d-lists-without-getting)**
 
-## Case Studies
-| Topic | Link |
-|:---| :---
-| ✔️ How LinkedIn used NLP to design Help Search System | [Link](https://intuitiveshorts.substack.com/p/case-study-how-linkedin-used-nlp) |
+4. **[Short #4 | RNN - Matrix dimensions and Parameters](https://intuitiveshorts.substack.com/p/rnn-matrix-dimensions-and-parameters)**
 
-## Paper Readings
-| Topic | Link |
+5. **[Short #5 | Tensor Broadcasting](https://intuitiveshorts.substack.com/p/short-5-tensor-broadcasting)**
 
-## ML-OPs
-| Topic | Link |
+6. **[Short #6 | How does Linear layer act on multi-dimensional tensor ?](https://intuitiveshorts.substack.com/p/short-6-how-does-linear-layer-act)**
 
-## Parameter Calculation
-| Topic | Link |
-|:---|:---|
-| ✔️ Number of Parameters in a CNN | [Link](https://intuitiveshorts.blogspot.com/2020/07/cnn-parameters.html) |
-| ✔️ Number of Parameters in a LSTM | [Link](https://intuitiveshorts.blogspot.com/2020/05/lstm-matrix-dimensions-and-parameters.html) |
-| ✔️ Number of Parameters in a RNN | [Link](https://intuitiveshorts.blogspot.com/2020/05/lstm-parameters.html) |
+7. **[Short #7 | What is Gradient Accumulation ?](https://intuitiveshorts.substack.com/p/short-7-what-is-gradient-accumulation)**
+
+8. **[Short #8 | Approximate Nearest Neighbors (1/2)](https://intuitiveshorts.substack.com/p/short-8-approximate-nearest-neighbors)**
+
+9. **[Short #9 | Gradient Checkpointing](https://intuitiveshorts.substack.com/p/short-9-gradient-checkpointing)**
+
+10. **[Short #10 | random.seed() and Hitchiker's Guide to Galaxy](https://intuitiveshorts.substack.com/p/short-10-randomseed-and-hitchikers)**
+
+11. **[Short #11 | Softmax Temperature](https://intuitiveshorts.substack.com/p/short-11-softmax-temperature)**
+
+12. **[Short #12 | MIPS vs MCSS (Maximum Inner Product / Cosine Similarity Search)](https://intuitiveshorts.substack.com/p/short-12-mips-vs-mcss-maximum-inner)**
+
+13. **[Short #13 | A fun history about Git)](https://intuitiveshorts.substack.com/p/short-13-a-fun-history-about-git)**
+
+14. **[Short #14 | How does Langchain Expression Language (LCEL) work ?](https://intuitiveshorts.substack.com/p/short-14-how-does-langchain-expression)**
+
+
+## 📧 Subscribe
+
+Never miss an update! [Subscribe to my newsletter](https://substack.com/subscribe-link) to get the latest posts delivered straight to your inbox. 
+
+---
