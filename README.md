@@ -46,6 +46,6 @@ This is the companion repository of my Substack Newsletter - **[Intuitive Shorts
 
 ## 📧 Subscribe
 
-Never miss an update! [Subscribe to my newsletter](https://substack.com/subscribe-link) to get the latest posts delivered straight to your inbox. 
+Never miss an update! [Subscribe to my newsletter](https://intuitiveshorts.substack.com/) to get the latest posts delivered straight to your inbox. 
 
 ---
