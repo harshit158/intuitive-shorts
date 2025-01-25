@@ -43,6 +43,8 @@ This is the companion repository of my Substack Newsletter - **[Intuitive Shorts
 
 14. **[Short #14 | How does Langchain Expression Language (LCEL) work ?](https://intuitiveshorts.substack.com/p/short-14-how-does-langchain-expression)**
 
+15. **[Short #15 | Postel's Law in Software Engineering](https://intuitiveshorts.substack.com/p/15-postels-law-in-software-engineering)**
+
 
 ## 📧 Subscribe
 
