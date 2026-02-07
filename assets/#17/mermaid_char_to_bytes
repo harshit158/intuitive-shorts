@@ -1,0 +1,23 @@
+---
+config:
+  layout: dagre
+---
+flowchart TB
+    n4["H"] -- number --> n7["72"]
+    n5["i"] -- <br> --> n8["105"]
+    n6["!"] -- </br> --> n9["33"]
+    n7 -- bytes (binary) --> n10@{ label: "<p class=\"p1\">01001000</p>" }
+    n8 --> n11["01101001"]
+    n9 --> n12["00100001"]
+    n10 --> n13["01001000 01101001 00100001"]
+    n11 --> n13
+    n12 --> n13
+
+    n4@{ shape: rounded}
+    n5@{ shape: rounded}
+    n8@{ shape: rect}
+    n6@{ shape: rounded}
+    n9@{ shape: rect}
+    n10@{ shape: rect}
+     n13:::Class_01
+    classDef Class_01 fill:#FFD600
